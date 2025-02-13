@@ -1,5 +1,3 @@
-4
-NeuraLens-10
-QuantumByte-20
-LaunchPad-20
-PayZen-10
+2
+NeuraLens-15
+QuantumByte-10
